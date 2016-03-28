@@ -1,4 +1,4 @@
-# Intro to Careers Curriculum 
+# Welcome
 
 You just learned tons of new technical stuff, and now you’re equipped with the skills to make you a junior developer. This next track will guide you through the process that will end with a job offer. Know that it will be really hard, and that’s why we have set up this track like a roadmap to prepare you for what’s to come. We know what it takes to get a developer job because we’ve done this with over 600 students over the past three years. That’s why we’ve set up the [Terms of Service](https://learn.co/tos) (also referred to as “TOS”) the way we did. If you stick to what we recommend you do in the TOS, you’ll be set up to get a job. 
 
