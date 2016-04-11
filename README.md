@@ -52,7 +52,7 @@ In the body of your email again include
 
 >Your City, State
 
->Url link to this specific google doc. 
+>Url link to this specific google doc 
 
 
 And that’s it! Make sure to have this tracker available as you go through the track because every time you submit an assignment, you’ll enter the date submitted so that your career coach can easily be informed. 
