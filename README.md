@@ -16,8 +16,11 @@ These lessons are meant to be tactical and actionable, and in some cases at the 
 Wherever you need to submit an assignment, you will be emailing them to careerprep@flatironschool.com. In the subject line of your email, always follow the format “”Your name” + “Assignment Title”” In almost all cases, we’ll ask that you submit assignments through Google Docs. If you don’t have Google Drive set up, first go to drive.google.com and follow instructions from there. In the body of your email submissions, you’ll also include the following:
 
 >Your Name
+
 >Assignment Title
+
 >Your City, State
+
 >Url link to this specific google doc. 
 
 The title of each Google Doc assignment you submitted should also always be “”Your name” + “Assignment Title””.  
@@ -44,8 +47,11 @@ In this case, your email subject line will be “”Your Name” + Career Prep T
 
 In the body of your email again include 
 >Your Name
+
 >Assignment Title
+
 >Your City, State
+
 >Url link to this specific google doc. 
 
 
