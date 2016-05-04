@@ -31,8 +31,6 @@ Just like in the program you just went through, everyone works at a different pa
 
 Similar to coding, jobseeking is a skill that takes time to learn and practice. Refer back to different lessons in this track throughout your job search process. 
 
-At the end of this career prep track, you’ll see an additional unit that has several labs on Computer Science topics. There are no expository materials here, but google around and do the best you can on these. We added these at the end of this track, because a part of your career prep will involve technical preparation in computer science topics. 
-
 ## Assignment- Career Prep Tracker
 
 Make a [copy of the Career Prep Tracker](https://docs.google.com/spreadsheets/d/1dO4Dm99qatU1elAAvpeQ9ZMBElP8Zih6eo-h2z4mD3s/edit#gid=0) and get practice submitting assignments. 
