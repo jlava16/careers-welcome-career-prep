@@ -13,7 +13,10 @@ We’ll take you through units that cover every aspect of the job search, includ
 
 These lessons are meant to be tactical and actionable, and in some cases at the end of a lesson there will be an assignment for you to complete and submit. Make sure you don’t miss any of these.
 
-Wherever you need to submit an assignment, you will be emailing them to careerprep@flatironschool.com. In the subject line of your email, always follow the format “”Your name” + “Assignment Title”” In almost all cases, we’ll ask that you submit assignments through Google Docs. If you don’t have Google Drive set up, first go to drive.google.com and follow instructions from there. In the body of your email submissions, you’ll also include the following:
+Wherever you need to submit an assignment, you will be emailing them to your coach. You'll be assigned a coach once you're through ~75% of the full stack web development track so if you don't have a coach now, just keep learning to code and we'll get you set up with one when we feel you're ready to focus on career preparation in addition to technical curriculum. Once you have a coach, you can start submitting assignments
+
+
+In the subject line of your email, always follow the format “”Your name” + “Assignment Title”” In almost all cases, we’ll ask that you submit assignments through Google Docs. If you don’t have Google Drive set up, first go to drive.google.com and follow instructions from there. In the body of your email submissions, you’ll also include the following:
 
 >Your Name
 
@@ -25,9 +28,9 @@ Wherever you need to submit an assignment, you will be emailing them to careerpr
 
 The title of each Google Doc assignment you submitted should also always be “”Your name” + “Assignment Title””.  
 
-You will also have access to a career counselor who will be in touch with on a biweekly basis once you finish the track and have done all the assignments. Your counselor will set goals with you, hold you to those goals, and will work with you for the next six months, or until you have a job. 
+Your coach will set goals with you, hold you to those goals, and will work with you for the next six months, or until you have a job. 
 
-Just like in the program you just went through, everyone works at a different pace. There is no right or wrong amount of time to spend with this content. Don't rush through it and be thoughtful about the assignments. Everything you will work on in this track will impact your job search in some way. 
+Everyone works at a different pace. There is no right or wrong amount of time to spend with this content. Don't rush through it and be thoughtful about the assignments. Everything you will work on in this track will impact your job search in some way. 
 
 Similar to coding, jobseeking is a skill that takes time to learn and practice. Refer back to different lessons in this track throughout your job search process. 
 
@@ -39,7 +42,7 @@ In this case, when you make a copy of this tracker, retitle the sheet to be “�
 
 The first assignment in the sheet is “Career Prep Tracker.” In the column that says date, write today’s date. 
 
-Then submit this assignment to careerprep@flatironschool.com. Remember in the subject line, to include your name and this specific assignment. Assignment titles will always be in the Assignment heading. If there is an assignment without a title next to it, that means these are action items for you to follow but you won’t need to submit anything to us. But always complete the action items!
+Then submit this assignment to your coach. Remember in the subject line, to include your name and this specific assignment. Assignment titles will always be in the Assignment heading. If there is an assignment without a title next to it, that means these are action items for you to follow but you won’t need to submit anything to us. But always complete the action items!
 
 In this case, your email subject line will be “”Your Name” + Career Prep Tracker””
 
