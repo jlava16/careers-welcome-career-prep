@@ -34,29 +34,6 @@ Everyone works at a different pace. There is no right or wrong amount of time to
 
 Similar to coding, jobseeking is a skill that takes time to learn and practice. Refer back to different lessons in this track throughout your job search process. 
 
-## Assignment- Career Prep Tracker
-
-Make a [copy of the Career Prep Tracker](https://docs.google.com/spreadsheets/d/1dO4Dm99qatU1elAAvpeQ9ZMBElP8Zih6eo-h2z4mD3s/edit#gid=0) and get practice submitting assignments. 
-
-In this case, when you make a copy of this tracker, retitle the sheet to be “”Your Name”+ “Career Prep Tracker””. 
-
-The first assignment in the sheet is “Career Prep Tracker.” In the column that says date, write today’s date. 
-
-Then submit this assignment to your coach. Remember in the subject line, to include your name and this specific assignment. Assignment titles will always be in the Assignment heading. If there is an assignment without a title next to it, that means these are action items for you to follow but you won’t need to submit anything to us. But always complete the action items!
-
-In this case, your email subject line will be “”Your Name” + Career Prep Tracker””
-
-In the body of your email again include 
->Your Name
-
->Assignment Title
-
->Your City, State
-
->Url link to this specific google doc 
-
-
-And that’s it! Make sure to have this tracker available as you go through the track because every time you submit an assignment, you’ll enter the date submitted so that your career coach can easily be informed. 
-
+Now dive in!
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/careers-welcome'>Careers Welcome</a> on Learn.co and start learning to code for free.</p>
