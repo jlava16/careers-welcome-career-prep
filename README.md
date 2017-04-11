@@ -11,28 +11,10 @@ We’ll take you through units that cover every aspect of the job search, includ
 - Communication best practices (via email, phone, and in-person)
 - Managing job offers
 
-These lessons are meant to be tactical and actionable, and in some cases at the end of a lesson there will be an assignment for you to complete and submit. Make sure you don’t miss any of these.
 
-Wherever you need to submit an assignment, you will be emailing them to your coach. You'll be assigned a coach once you're through ~75% of the full stack web development track so if you don't have a coach now, just keep learning to code and we'll get you set up with one when we feel you're ready to focus on career preparation in addition to technical curriculum. Once you have a coach, you can start submitting assignments
+Everyone works at a different pace. There is no right or wrong amount of time to spend with this content. Don't rush through it - everything you will work on in this track will impact your job search in some way. Similar to coding, jobseeking is a skill that takes time to learn and practice. Refer back to different lessons in this track throughout your job search process. 
 
-
-In the subject line of your email, always follow the format “”Your name” + “Assignment Title”” In almost all cases, we’ll ask that you submit assignments through Google Docs. If you don’t have Google Drive set up, first go to drive.google.com and follow instructions from there. In the body of your email submissions, you’ll also include the following:
-
->Your Name
-
->Assignment Title
-
->Your City, State
-
->Url link to this specific google doc. 
-
-The title of each Google Doc assignment you submitted should also always be “”Your name” + “Assignment Title””.  
-
-Your coach will set goals with you, hold you to those goals, and will work with you for the next six months, or until you have a job. 
-
-Everyone works at a different pace. There is no right or wrong amount of time to spend with this content. Don't rush through it and be thoughtful about the assignments. Everything you will work on in this track will impact your job search in some way. 
-
-Similar to coding, jobseeking is a skill that takes time to learn and practice. Refer back to different lessons in this track throughout your job search process. 
+In addition to this content, you will be working with an individual career coach, a well as, the entire Career Services team. Your coach will set goals with you, hold you to those goals, and will work with you for the next six months, or until you have a job offer. Check out this quick video to learn more about Career Services and what you can expect! https://youtu.be/uZLWqBmXo1c
 
 Now dive in!
 
